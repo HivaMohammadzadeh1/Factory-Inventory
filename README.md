@@ -3,7 +3,7 @@ A modularized, menu-driven program to read a file with the unknown number of rec
 
 The input file has an unknown number of records of inventory items (may be empty); one record per line in the following  order: item ID, item  name (one word), quantity on hand, and a price 
 All fields in the input file are separated by a tab (‘\t’) or a blank ( up to you)
- All items are unique
+All items are unique
 Item Id and name do not require error checking
 Create a menu (use a switch statement) which allows to
 print the inventory unsorted
